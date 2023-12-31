@@ -121,6 +121,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![image](https://github.com/ARCH2006/slot/assets/144300030/5dbce270-d545-41c4-b45e-a26b26a59ba2)
+
 
 
 ## RESULT
